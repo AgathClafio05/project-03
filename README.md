@@ -1,1 +1,1 @@
-[click here to view.py](./http://localhost:8501/)
+[click here to view.py](http://localhost:8501)
