@@ -1,1 +1,1 @@
-[click here to view.py](./appp.py)
+[click here to view.py](./http://localhost:8501/)
